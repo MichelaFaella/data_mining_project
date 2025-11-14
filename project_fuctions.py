@@ -2,6 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import re
+import numpy as np
+from IPython.display import display
 
 def plot_birth_decades(df ,title1, title2):
     """
@@ -165,6 +167,31 @@ def plot_age_at_career_start(df, title, birth_col='birth_date', active_col='acti
     plt.grid(alpha=0.3, axis='y')
     plt.tight_layout()
     plt.show()
+
+def display_artist_ages(df, title="Unique Artists and Their Age"):
+    """
+    Display a table of unique artists and their ages.
+
+    Parameters:
+        df (pd.DataFrame): DataFrame containing at least 'name' and 'birth_date' columns.
+        title (str): Custom title for the output.
+    """
+    # --- Compute current age in years ---
+    today = pd.Timestamp.today()
+    artist_age = (today - df['birth_date']).dt.days // 365
+
+    # --- Create temporary DataFrame with unique artists and their age ---
+    artist_age_df = pd.DataFrame({
+        'name': df['name'],
+        'age': artist_age
+    }).drop_duplicates().sort_values(by='age', ascending=False)
+
+    # --- Display the table ---
+    print(title + ":")
+    display(artist_age_df.style.background_gradient(cmap='coolwarm'))
+
+    # --- Total number of unique artists ---
+    print(f"\nTotal number of unique artists: {artist_age_df['name'].nunique()}")
 
 def safe_int(x):
     try:
