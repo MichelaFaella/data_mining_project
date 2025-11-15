@@ -1,0 +1,20 @@
+,album,release_year,album_type,name,birth_date,title,artist_born_after_album,disc_number,track_number
+0,Aspetta Un Minuto Mixtape,1979.0,['single'],['ghemon'],[np.datetime64('1982-04-01T00:00:00.000000000')],['Condor (Agostini)'],True,[np.float64(1.0)],[np.float64(2.0)]
+1,Council Estate Vol.1,1973.0,['album'],['samuel heron'],[np.datetime64('NaT')],['La Mia Ingenuità'],False,[np.float64(1.0)],[np.float64(6.0)]
+2,Cracovia,1972.0,['album'],['il tre'],[np.datetime64('1997-01-01T00:00:00.000000000')],['Il Saltimbanco'],True,[np.float64(1.0)],[np.float64(3.0)]
+3,Entics Television,1970.0,['album'],['entics'],[np.datetime64('1985-03-16T00:00:00.000000000')],['Acqua'],True,[np.float64(1.0)],[np.float64(8.0)]
+4,Equilibrio - EP,1976.0,['album'],['ensi'],[np.datetime64('1985-12-13T00:00:00.000000000')],['Né Vinto Né Vincitore'],True,[np.float64(1.0)],[np.float64(9.0)]
+5,Happy EP!,1974.0,['album'],['grido'],[np.datetime64('1979-03-30T00:00:00.000000000')],['Certi Film'],True,[np.float64(1.0)],[np.float64(1.0)]
+6,Haterproof,1989.0,"['album', 'compilation']",['gemitaiz'],[np.datetime64('1988-11-04T00:00:00.000000000')],"['Inutile che dici di no', 'Low budget']",True,[np.float64(1.0)],"[np.float64(1.0), np.float64(2.0)]"
+7,Jolly Mixtape,1977.0,['album'],['skioffi'],[np.datetime64('NaT')],['Jolly Walter'],False,[np.float64(1.0)],[np.float64(11.0)]
+8,K1 Mixtape,1955.0,['album'],['lazza'],[np.datetime64('1994-08-22T00:00:00.000000000')],['È Vero'],True,[np.float64(2.0)],[np.float64(13.0)]
+9,Nobiltà di Strada,1984.0,['album'],['inoki'],[np.datetime64('1979-10-02T00:00:00.000000000')],['Majiko'],False,[np.float64(1.0)],[np.float64(7.0)]
+10,Quattro San Simoni e un funerale EP,1986.0,['album'],['willie peyote'],[np.datetime64('1985-08-28T00:00:00.000000000')],['I (Really Don’t) Like'],False,[np.float64(1.0)],[np.float64(10.0)]
+11,Quello Che Vi Consiglio Vol. 4,1978.0,['album'],['gemitaiz'],[np.datetime64('1988-11-04T00:00:00.000000000')],['On The Corner'],True,[np.float64(1.0)],[np.float64(6.0)]
+12,Radiografia - EP,1979.0,['album'],['johnny marsiglia'],[np.datetime64('NaT')],['Oh No'],False,[np.float64(1.0)],[np.float64(11.0)]
+13,Rimo Da Quando,1981.0,['album'],['guè pequeno'],[np.datetime64('NaT')],['Stop That Train'],False,[np.float64(1.0)],[np.float64(1.0)]
+14,S.O.S. EP,1962.0,['album'],['baby k'],[np.datetime64('1983-02-05T00:00:00.000000000')],['S.O.S.'],True,[np.float64(1.0)],[np.float64(8.0)]
+15,Tutto il Contrario Remixtape,1979.0,['album'],['fedez'],[np.datetime64('1989-10-15T00:00:00.000000000')],['Caro Amico'],True,[np.float64(1.0)],[np.float64(9.0)]
+16,VERA BADDIE,1988.0,['album'],['anna pepe'],[np.datetime64('NaT')],['SHOW ME LOVE'],False,[np.float64(1.0)],[np.float64(4.0)]
+17,Vivere aiuta a non morire,1984.0,['album'],['dargen d_amico'],[np.datetime64('NaT')],['Fior Fiorello'],False,[np.float64(1.0)],[np.float64(8.0)]
+18,,1975.0,['album'],"['lazza', 'tedua', 'baby k', 'shade', 'rancore']","[np.datetime64('1994-08-22T00:00:00.000000000'), np.datetime64('1994-02-21T00:00:00.000000000'), np.datetime64('1983-02-05T00:00:00.000000000'), np.datetime64('1987-12-10T00:00:00.000000000'), np.datetime64('1989-07-19T00:00:00.000000000')]","['The Exchange', 'Skid Row', 'Jungle', 'Kin Of $in', 'Vaicolliscio']",True,[np.float64(1.0)],"[np.float64(4.0), np.float64(14.0), np.float64(6.0), np.float64(10.0), np.float64(2.0)]"
