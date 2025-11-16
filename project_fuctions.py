@@ -285,3 +285,74 @@ def is_quasi_constant(s: pd.Series, tol_unique_ratio: float = 0.001) -> bool:
         return True
     unique_ratio = s.dropna().nunique() / max(1, s.notna().sum())
     return unique_ratio <= tol_unique_ratio
+
+def plot_unique_album_release_distribution(
+        df,
+        title1,
+        title2,
+        album_col="album",
+        date_col="album_release_date",
+):
+    """
+    Plots the percentage of unique albums by their release decade (bar plot)
+    and a histogram of unique album release years.
+    Does not modify the original dataset.
+    """
+    # --- Keep only unique albums ---
+    unique_albums = df.drop_duplicates(subset=[album_col]).copy()
+
+    # --- Extract album release years ---
+    album_years = unique_albums[date_col].dt.year.dropna()
+
+    if album_years.empty:
+        print(f"No valid album release years found in column '{date_col}'.")
+        return
+
+    # --- Define decade bins ---
+    start = int(album_years.min() // 10 * 10)
+    end = int(album_years.max() // 10 * 10 + 10)
+    bins = list(range(start, end + 10, 10))
+    labels = [f"{b}s" for b in bins[:-1]]
+
+    # --- Group by decade ---
+    decade_groups = pd.cut(album_years, bins=bins, labels=labels, right=False)
+
+    # --- Calculate percentages ---
+    group_percent = decade_groups.value_counts(normalize=True).sort_index() * 100
+    group_df = pd.DataFrame(
+        {"decade": group_percent.index, "percent": group_percent.values}
+    )
+
+    print(title1)
+    print(group_df)
+
+    # --- Plot bar chart and histogram side by side ---
+    fig, axes = plt.subplots(1, 2, figsize=(14, 6))
+
+    # --- Bar plot ---
+    sns.barplot(
+        data=group_df,
+        x="decade",
+        y="percent",
+        hue="decade",
+        palette="mako",
+        legend=False,
+        ax=axes[0],
+    )
+    for i, val in enumerate(group_df["percent"]):
+        axes[0].text(i, val + 0.5, f"{val:.2f}%", ha="center", fontsize=10)
+
+    axes[0].set_title(title1, fontsize=16, pad=15)
+    axes[0].set_xlabel("Album Release Decade", fontsize=12)
+    axes[0].set_ylabel("Percentage (%)", fontsize=12)
+    sns.despine(ax=axes[0])
+
+    # --- Histogram of release years ---
+    sns.histplot(album_years, bins=20, kde=True, color="skyblue", ax=axes[1])
+    axes[1].set_title(title2, fontsize=16, pad=15)
+    axes[1].set_xlabel("Release Year", fontsize=12)
+    axes[1].set_ylabel("Count", fontsize=12)
+    sns.despine(ax=axes[1])
+
+    plt.tight_layout()
+    plt.show()
