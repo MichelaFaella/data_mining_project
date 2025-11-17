@@ -356,3 +356,15 @@ def plot_unique_album_release_distribution(
 
     plt.tight_layout()
     plt.show()
+
+def find_albums_missing_release_date(df, album_col='album', artist_col='name', date_col='album_release_date'):
+    """
+    Finds and lists  albums that have a name but no release date.
+    """
+    missing_tracks = df[df[album_col].notna() & df[date_col].isna()][[album_col, artist_col, 'album_type', 'title', 'year']]
+
+    unique_missing_albums = missing_tracks.drop_duplicates(subset=[album_col])
+
+    print(f"Number of unique albums with a name but without release date: {len(unique_missing_albums)}")
+
+    return missing_tracks
