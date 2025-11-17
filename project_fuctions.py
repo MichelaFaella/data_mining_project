@@ -368,3 +368,28 @@ def find_albums_missing_release_date(df, album_col='album', artist_col='name', d
     print(f"Number of unique albums with a name but without release date: {len(unique_missing_albums)}")
 
     return missing_tracks
+
+
+def find_albums_before_birth(df):
+    """
+    Find albums released before the artist's birth date.
+    """
+    album_before_birth = df[df['album_release_date'] < df['birth_date']]
+
+    print(f"Albums released before artist's birth: {len(album_before_birth)}")
+    return(album_before_birth[['title','album', 'album_release_date', 'birth_date', 'name','disc_number','track_number']])
+
+
+def find_albums_before_active_start(df):
+    """
+    Find albums released before the artist's active date.
+    """
+    album_before_active_start = df[df['album_release_date'] < df['active_start']]
+
+    unique_albums_before_start = album_before_active_start.drop_duplicates(subset=['album'])
+
+    print(f"Albums released before artist's active start date: {len(album_before_active_start)}")
+
+    print(f"unique Albums released before artist's active start date: {len(unique_albums_before_start)}")
+
+    return(unique_albums_before_start[['album', 'album_release_date','active_start', 'birth_date', 'name']])
