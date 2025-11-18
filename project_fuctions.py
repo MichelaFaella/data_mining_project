@@ -509,3 +509,146 @@ def analyze_nan_albums(df):
 
     # Return the two useful DataFrames
     return nan_album_rows, nan_and_album_type_album
+
+
+def analyze_extreme_years(df):
+    """
+    Analyze songs with extreme or invalid year values:
+    - Songs before 1950
+    - Songs after 2025
+
+
+    Returns:
+        old_songs (DataFrame): rows where year < 1950
+        future_songs (DataFrame): rows where year > 2025
+    """
+
+    # --- Boolean masks for year filtering ---
+    before_1950_mask = df["year"] < 1950
+    after_2025_mask = df["year"] > 2025
+
+    # Count the number of titles in each category
+    songs_before_1950 = df[before_1950_mask]["title"].count()
+    songs_after_2025 = df[after_2025_mask]["title"].count()
+
+    # --- Print total counts ---
+    print(f"Total number of titles before 1950: {songs_before_1950}")
+    print(f"Total number of titles after 2025: {songs_after_2025}")
+
+    # Columns to display
+    cols_to_display = [
+        "title",
+        "album",
+        "album_release_date",
+        "album_type",
+        "year",
+        "month",
+        "day",
+    ]
+
+    # --- Show songs before 1950 ---
+
+    old_songs = df[before_1950_mask]
+    # --- Show songs after 2025 ---
+    future_songs = df[after_2025_mask]
+
+    return old_songs, future_songs
+
+
+def find_common_nan_dates(df):
+    """
+    Find rows where BOTH 'album_release_date' and 'year' are NaN.
+
+    Returns:
+        common_nan_rows (DataFrame): rows with both fields missing.
+    """
+
+    # --- 1. Mask for album_release_date == NaN ---
+    date_nan_mask = df["album_release_date"].isna()
+
+    # --- 2. Mask for year == NaN ---
+    year_nan_mask = df["year"].isna()
+
+    # --- 3. Combine masks (both NaN in the same row) ---
+    common_nan_mask = date_nan_mask & year_nan_mask
+
+    # --- 4. Filter the DataFrame ---
+    common_nan_rows = df[common_nan_mask]
+
+    # --- 5. Reporting ---
+    print("--- Common NaNs Check ('album_release_date' AND 'year') ---")
+    print(
+        f"Number of rows where BOTH 'album_release_date' AND 'year' are NaN: {len(common_nan_rows)}"
+    )
+
+    if len(common_nan_rows) > 0:
+        print("\nDisplaying up to 20 example rows:")
+        display(
+            common_nan_rows[["title", "name", "album", "album_release_date", "year"]]
+        )
+    else:
+        print("\nNo rows found with common NaNs in both columns.")
+
+    return common_nan_rows
+
+
+def find_active_start_before_birthdate(df):
+    """
+    Find artists whose active_start date is earlier than their birth date.
+    """
+
+    invalid_dates = df[df["active_start"] < df["birth_date"]]
+
+    print(
+        f"Found {len(invalid_dates)} artists with 'active_start' earlier than 'birth_date'."
+    )
+    display(invalid_dates[["name", "birth_date", "active_start"]])
+
+
+def find_tracks_before_career_start(df):
+    """
+    Find tracks released before the artist's career start.
+    """
+    inconsistency = df[
+        (df["year"].notna())
+        & (df["active_start"].notna())
+        & (df["year"] < df["active_start"].dt.year)
+    ]
+
+    print(
+        f"Number of records where a song was released before the artist's career start: {len(inconsistency)}"
+    )
+
+    return inconsistency[
+        ["name", "title", "year", "active_start", "album_release_date"]
+    ].sort_values(by="name")
+
+
+def find_tracks_before_birth(df):
+    """
+    Find tracks released before the artist's birth date.
+    """
+    tracks_before_birth = df[df["year"] < df["birth_date"].dt.year]
+
+    print(
+        f"Number of tracks released before artist's birth: {len(tracks_before_birth)}"
+    )
+    return tracks_before_birth[
+        ["title", "year", "birth_date", "album_release_date", "name"]
+    ]
+
+
+def find_tracks_before_album(df):
+    """
+    Find tracks released before their album release (excluding singles).
+    """
+    tracks_before_album = df[
+        (df["year"] < df["album_release_date"].dt.year) & (df["album_type"] != "single")
+    ]
+
+    print(
+        f"Tracks released before the album (excluding singles): {len(tracks_before_album)}"
+    )
+    return tracks_before_album[
+        ["title", "year", "album", "album_release_date", "album_type", "name"]
+    ]
