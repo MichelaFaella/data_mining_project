@@ -652,3 +652,27 @@ def find_tracks_before_album(df):
     return tracks_before_album[
         ["title", "year", "album", "album_release_date", "album_type", "name"]
     ]
+
+def check_skewness(df, cols):
+    """
+    Calculates mean, median, and skewness for specified columns
+    and classifies the skew type based on standard thresholds.
+    """
+    # Calculate aggregated statistics
+    skew_results = df[cols].agg(['mean', 'median', 'skew']).T
+    skew_results.columns = ['mean', 'median', 'skewness_value']
+
+    # Define internal function for classification
+    def classify_skew(skew_value):
+        if skew_value > 0.5:
+            return "Positive (Right Skew)"
+        elif skew_value < -0.5:
+            return "Negative (Left Skew)"
+        else:
+            return "Symmetric"
+
+    # Apply classification
+    skew_results['skew_type'] = skew_results['skewness_value'].apply(classify_skew)
+
+    # Sort by skewness value for better readability
+    return skew_results.sort_values(by='skewness_value', ascending=False)
