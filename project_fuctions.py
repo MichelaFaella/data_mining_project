@@ -676,3 +676,144 @@ def check_skewness(df, cols):
 
     # Sort by skewness value for better readability
     return skew_results.sort_values(by='skewness_value', ascending=False)
+
+def plot_symmetric_distributions(df, features_list, n_cols=3, z_threshold=3, title="Symmetric Distribution Analysis (Z-Score Check)"):
+    """
+    Generates histograms with Z-Score cutoff lines for a list of features.
+
+    Parameters:
+    - df: The DataFrame containing the data.
+    - features_list: List of column names to plot.
+    - n_cols: Number of columns in the subplot grid.
+    - z_threshold: The threshold for the red lines (default: 3 standard deviations).
+    - title: The overall title of the figure.
+    """
+    n_features = len(features_list)
+    n_rows = (n_features + n_cols - 1) // n_cols
+
+    fig, axes = plt.subplots(n_rows, n_cols, figsize=(15, n_rows * 3.5))
+    axes = axes.flatten() # Flatten the axes array for easy iteration
+
+    print(f"--- {title} ---")
+    print(f"Red lines indicate: Mean +/- {z_threshold} Std Dev")
+
+    for i, col in enumerate(features_list):
+        if col in df.columns:
+            #Plot Histogram
+            sns.histplot(df[col], ax=axes[i], kde=True, color="skyblue", stat="density", element="step")
+
+            # Calculate Stats and Limits
+            mean_val = df[col].mean()
+            std_val = df[col].std()
+
+            lower_cut = mean_val - (z_threshold * std_val)
+            upper_cut = mean_val + (z_threshold * std_val)
+
+            axes[i].axvline(lower_cut, color='red', linestyle='--', linewidth=1.5, label=f'-{z_threshold} Std')
+            axes[i].axvline(upper_cut, color='red', linestyle='--', linewidth=1.5, label=f'+{z_threshold} Std')
+
+            axes[i].set_title(f"{col}\nMean: {mean_val:.2f} | Std: {std_val:.2f}", fontsize=10)
+            axes[i].set_xlabel("")
+            axes[i].grid(True, linestyle=':', alpha=0.4)
+
+        else:
+            axes[i].set_visible(False)
+
+    for j in range(i + 1, len(axes)):
+        fig.delaxes(axes[j])
+
+    plt.suptitle(title, fontsize=18, y=1.02)
+    plt.tight_layout()
+    plt.show()
+
+def plot_skewed_distributions(df, features_list, n_cols=3, iqr_multiplier=1.5, title="Skewed Distribution Analysis (Box Plot Check)"):
+    """
+    Generates Box Plots with IQR fences for a list of skewed features.
+    Useful for identifying outliers in non-Gaussian distributions.
+
+    Parameters:
+    - df: The DataFrame containing the data.
+    - features_list: List of column names to plot.
+    - n_cols: Number of columns in the subplot grid.
+    - iqr_multiplier: The multiplier for the IQR whiskers (default: 1.5).
+    - title: The overall title of the figure.
+    """
+    n_features = len(features_list)
+    n_rows = (n_features + n_cols - 1) // n_cols
+
+    fig, axes = plt.subplots(n_rows, n_cols, figsize=(15, n_rows * 3.5))
+    axes = axes.flatten()
+
+    print(f"--- {title} ---")
+    print(f"Orange lines indicate calculated IQR Fences (k={iqr_multiplier})")
+
+    for i, col in enumerate(features_list):
+        if col in df.columns:
+            # Box Plot
+            sns.boxplot(x=df[col], ax=axes[i], orient='h', color="skyblue", fliersize=3)
+
+            # Calculate IQR Limits
+            Q1 = df[col].quantile(0.25)
+            Q3 = df[col].quantile(0.75)
+            IQR = Q3 - Q1
+            lower_bound = Q1 - (iqr_multiplier * IQR)
+            upper_bound = Q3 + (iqr_multiplier * IQR)
+
+            axes[i].axvline(lower_bound, color='orange', linestyle=':', linewidth=2, label='Lower Fence')
+            axes[i].axvline(upper_bound, color='orange', linestyle=':', linewidth=2, label='Upper Fence')
+
+            axes[i].set_title(f"{col}\nIQR: {IQR:.2f} | Upper: {upper_bound:.2f}", fontsize=10)
+            axes[i].set_xlabel("")
+            axes[i].grid(True, linestyle=':', alpha=0.4)
+
+        else:
+            axes[i].set_visible(False)
+
+    for j in range(i + 1, len(axes)):
+        fig.delaxes(axes[j])
+
+    plt.suptitle(title, fontsize=18, y=1.02)
+    plt.tight_layout()
+    plt.show()
+
+def plot_zero_inflated_distributions(df, features_list, n_cols=3, title="Zero-Inflated Distribution Analysis"):
+    """
+    Generates histograms with a logarithmic Y-axis to visualize zero-inflated data
+    and long-tail distributions.
+
+    Parameters:
+    - df: The DataFrame containing the data.
+    - features_list: List of column names to plot.
+    - n_cols: Number of columns in the subplot grid.
+    - title: The overall title of the figure.
+    """
+    n_features = len(features_list)
+    n_rows = (n_features + n_cols - 1) // n_cols
+
+    fig, axes = plt.subplots(n_rows, n_cols, figsize=(15, n_rows * 3.5))
+    axes = axes.flatten()
+
+    print(f"--- {title} ---")
+    print("Note: Y-axis is log-scaled to visualize low-frequency values in the tail.")
+
+    for i, col in enumerate(features_list):
+        if col in df.columns:
+            # 1. Histogram
+            sns.histplot(df[col], ax=axes[i], bins=30, kde=False, color="purple", stat="count")
+
+            # Logarithmic Scale on Y-Axis
+            axes[i].set_yscale('log')
+
+            axes[i].set_title(f"Log-Dist: {col}", fontsize=10, fontweight='bold')
+            axes[i].set_xlabel("")
+            axes[i].grid(True, linestyle=':', alpha=0.4)
+
+        else:
+            axes[i].set_visible(False)
+
+    for j in range(i + 1, len(axes)):
+        fig.delaxes(axes[j])
+
+    plt.suptitle(title, fontsize=18, y=1.02)
+    plt.tight_layout()
+    plt.show()
