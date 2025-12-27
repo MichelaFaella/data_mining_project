@@ -1,0 +1,455 @@
+path,filename,tr_raw,tr_key,title,id,year,album_release_date,album_type,name_artist,label
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR100524.mp3,ART25707984 - TR100524.mp3,TR100524,100524,Alta Vendita,TR100524,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR105364.mp3,ART25707984 - TR105364.mp3,TR105364,105364,Mal Di Stomaco,TR105364,2054,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR106318.mp3,ART07024718 - TR106318.mp3,TR106318,106318,Intro (Pat-a-Cake),TR106318,2007.0,2007-10-30,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR108446.mp3,ART25707984 - TR108446.mp3,TR108446,108446,In Italia 2024,TR108446,2094,2024-02-23,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR111715.mp3,ART25707984 - TR111715.mp3,TR111715,111715,Nessun aiuto,TR111715,2017.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR113702.mp3,ART07024718 - TR113702.mp3,TR113702,113702,Volevo fare il rapper,TR113702,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR114955.mp3,ART25707984 - TR114955.mp3,TR114955,114955,Voce,TR114955,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR115652.mp3,ART25707984 - TR115652.mp3,TR115652,115652,Troppi Limiti,TR115652,1937,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR116528.mp3,ART07024718 - TR116528.mp3,TR116528,116528,Tutto il contrario,TR116528,2066,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR120106.mp3,ART25707984 - TR120106.mp3,TR120106,120106,Felice Per Me,TR120106,2012.0,2013-02-05,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR121405.mp3,ART25707984 - TR121405.mp3,TR121405,121405,Lo Sto Facendo,TR121405,2016.0,2016-09-06,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR122922.mp3,ART25707984 - TR122922.mp3,TR122922,122922,Vaffanculo Scemo,TR122922,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR124631.mp3,ART07024718 - TR124631.mp3,TR124631,124631,VIOLA,TR124631,2022.0,2022-10-14,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR128449.mp3,ART07024718 - TR128449.mp3,TR128449,128449,Cardinal chic,TR128449,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR136811.mp3,ART25707984 - TR136811.mp3,TR136811,136811,Come Te,TR136811,2002.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR137864.mp3,ART25707984 - TR137864.mp3,TR137864,137864,Strani Pensieri,TR137864,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR143367.mp3,ART25707984 - TR143367.mp3,TR143367,143367,Fenomeno,TR143367,2076,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR148805.mp3,ART25707984 - TR148805.mp3,TR148805,148805,Su Le Mani,TR148805,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR150455.mp3,ART25707984 - TR150455.mp3,TR150455,150455,Demo Nello Stereo,TR150455,2022.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR156022.mp3,ART25707984 - TR156022.mp3,TR156022,156022,Adorazione,TR156022,2024.0,2024-11-22,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR160920.mp3,ART25707984 - TR160920.mp3,TR160920,160920,Bonus Track (Turbe Giovanili Remaster 2010),TR160920,2010.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR161567.mp3,ART07024718 - TR161567.mp3,TR161567,161567,Vivere domani,TR161567,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR162052.mp3,ART25707984 - TR162052.mp3,TR162052,162052,Di Noi,TR162052,2002.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR165212.mp3,ART07024718 - TR165212.mp3,TR165212,165212,Jet set,TR165212,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR166646.mp3,ART25707984 - TR166646.mp3,TR166646,166646,Chi Vuole Essere Fabri Fibra?,TR166646,2009.0,2019-05-03,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR167063.mp3,ART25707984 - TR167063.mp3,TR167063,167063,Che Culo! Che Figa!,TR167063,2061,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR167740.mp3,ART25707984 - TR167740.mp3,TR167740,167740,Dipinto di blu,TR167740,2017.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR168277.mp3,ART25707984 - TR168277.mp3,TR168277,168277,Incomprensioni,TR168277,2009.0,2009-04-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR170280.mp3,ART07024718 - TR170280.mp3,TR170280,170280,Sanremo Freestyle,TR170280,2023.0,2016-04-15,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR170292.mp3,ART07024718 - TR170292.mp3,TR170292,170292,La scelta giusta,TR170292,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR172746.mp3,ART25707984 - TR172746.mp3,TR172746,172746,Playboy,TR172746,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR174989.mp3,ART25707984 - TR174989.mp3,TR174989,174989,Dalla A alla Zeta (Remaster 2010),TR174989,2010.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR176424.mp3,ART25707984 - TR176424.mp3,TR176424,176424,Squallor,TR176424,1955,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR177789.mp3,ART25707984 - TR177789.mp3,TR177789,177789,Cuore Di Latta,TR177789,2081,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR178473.mp3,ART25707984 - TR178473.mp3,TR178473,178473,Stelle,TR178473,2022.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR188259.mp3,ART25707984 - TR188259.mp3,TR188259,188259,Sanremo Megamix,TR188259,2008.0,2017-02-17,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR192986.mp3,ART25707984 - TR192986.mp3,TR192986,192986,Freestyle (2004),TR192986,2004.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR195519.mp3,ART07024718 - TR195519.mp3,TR195519,195519,L’INFANZIA DIFFICILE DI UN BENESTANTE,TR195519,2024.0,2025-05-16,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR196675.mp3,ART07024718 - TR196675.mp3,TR196675,196675,VITTORIA,TR196675,2021.0,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR198241.mp3,ART25707984 - TR198241.mp3,TR198241,198241,Le vacanze,TR198241,1935,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR203683.mp3,ART07024718 - TR203683.mp3,TR203683,203683,MILLE,TR203683,2021.0,2021-06-11,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR203999.mp3,ART25707984 - TR203999.mp3,TR203999,203999,Cocaine,TR203999,2022.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR204867.mp3,ART25707984 - TR204867.mp3,TR204867,204867,Io non ti invidio,TR204867,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR213252.mp3,ART07024718 - TR213252.mp3,TR213252,213252,Anthem Pt.1,TR213252,2076,2012-10-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR218393.mp3,ART25707984 - TR218393.mp3,TR218393,218393,Che fine hai fatto Fibra? (64 Bars),TR218393,2022.0,2014-04-03,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR219103.mp3,ART25707984 - TR219103.mp3,TR219103,219103,Mille Domande,TR219103,2060,2024-11-22,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR219347.mp3,ART25707984 - TR219347.mp3,TR219347,219347,Saddam Freestyle,TR219347,2010.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR219551.mp3,ART07024718 - TR219551.mp3,TR219551,219551,Generazione Boh,TR219551,2014.0,2016-03-15,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR219883.mp3,ART25707984 - TR219883.mp3,TR219883,219883,Stile Libero Passato,TR219883,2012.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR220174.mp3,ART25707984 - TR220174.mp3,TR220174,220174,Spara Al Diavolo,TR220174,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR220790.mp3,ART25707984 - TR220790.mp3,TR220790,220790,Non Potete Capire,TR220790,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR224027.mp3,ART25707984 - TR224027.mp3,TR224027,224027,Intro (Fenomeno),TR224027,2017.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR224256.mp3,ART25707984 - TR224256.mp3,TR224256,224256,Outro (Senti),TR224256,2022.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR226814.mp3,ART07024718 - TR226814.mp3,TR226814,226814,Milano bene,TR226814,2013.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR229193.mp3,ART07024718 - TR229193.mp3,TR229193,229193,L’amore eternit,TR229193,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR229227.mp3,ART07024718 - TR229227.mp3,TR229227,229227,Pensavo fosse amore e invece...,TR229227,2013.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR231277.mp3,ART07024718 - TR231277.mp3,TR231277,231277,Il cemento non è un fiore,TR231277,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR231480.mp3,ART25707984 - TR231480.mp3,TR231480,231480,Centoquindici,TR231480,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR232256.mp3,ART25707984 - TR232256.mp3,TR232256,232256,Solo una botta,TR232256,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR233630.mp3,ART25707984 - TR233630.mp3,TR233630,233630,E.U.R.O,TR233630,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR234697.mp3,ART25707984 - TR234697.mp3,TR234697,234697,Scattano Le Indagini,TR234697,2002.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR234738.mp3,ART25707984 - TR234738.mp3,TR234738,234738,L’accoppiaggio,TR234738,1997.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR237380.mp3,ART25707984 - TR237380.mp3,TR237380,237380,Alieno,TR237380,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR237531.mp3,ART07024718 - TR237531.mp3,TR237531,237531,Bella addormentata nel Bronx,TR237531,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR239743.mp3,ART25707984 - TR239743.mp3,TR239743,239743,Fatti Da Parte,TR239743,2014.0,2007-07-27,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR245679.mp3,ART25707984 - TR245679.mp3,TR245679,245679,Outro PDF,TR245679,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR246352.mp3,ART07024718 - TR246352.mp3,TR246352,246352,Pop-hoolismo (Intro),TR246352,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR246839.mp3,ART07024718 - TR246839.mp3,TR246839,246839,Ragazza sbagliata,TR246839,2013.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR247713.mp3,ART25707984 - TR247713.mp3,TR247713,247713,Extralarge,TR247713,2009.0,2009-04-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR248802.mp3,ART25707984 - TR248802.mp3,TR248802,248802,6791,TR248802,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR249890.mp3,ART25707984 - TR249890.mp3,TR249890,249890,Lamborghini / Rime Sul Beat,TR249890,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR250056.mp3,ART25707984 - TR250056.mp3,TR250056,250056,A Questo Show,TR250056,1907,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR251094.mp3,ART25707984 - TR251094.mp3,TR251094,251094,Troie in Porsche,TR251094,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR251966.mp3,ART25707984 - TR251966.mp3,TR251966,251966,Raggi Laser,TR251966,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR252912.mp3,ART25707984 - TR252912.mp3,TR252912,252912,Gonfio così,TR252912,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR253127.mp3,ART07024718 - TR253127.mp3,TR253127,253127,Pop-hoolista,TR253127,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR253898.mp3,ART07024718 - TR253898.mp3,TR253898,253898,PROBLEMI CON TUTTI (GIUDA),TR253898,1917,2020-05-15,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR255665.mp3,ART25707984 - TR255665.mp3,TR255665,255665,Ring Ring,TR255665,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR260784.mp3,ART25707984 - TR260784.mp3,TR260784,260784,≠ (Diverso),TR260784,2010.0,2007-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR264422.mp3,ART25707984 - TR264422.mp3,TR264422,264422,Parodia (MTV Day 2006),TR264422,2006.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR265400.mp3,ART07024718 - TR265400.mp3,TR265400,265400,Blues,TR265400,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR267048.mp3,ART25707984 - TR267048.mp3,TR267048,267048,Streetstyle Intro,TR267048,1923,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR273414.mp3,ART25707984 - TR273414.mp3,TR273414,273414,Invece no,TR273414,2017.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR273806.mp3,ART07024718 - TR273806.mp3,TR273806,273806,Tu Come Li Chiami,TR273806,2010.0,2019-12-24,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR274115.mp3,ART25707984 - TR274115.mp3,TR274115,274115,Di Fretta,TR274115,2002.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR278311.mp3,ART25707984 - TR278311.mp3,TR278311,278311,Panico,TR278311,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR282407.mp3,ART25707984 - TR282407.mp3,TR282407,282407,Fabri Fibra A Spit 2011,TR282407,2011.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR285089.mp3,ART25707984 - TR285089.mp3,TR285089,285089,Non Credo Ai Media,TR285089,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR290267.mp3,ART25707984 - TR290267.mp3,TR290267,290267,"Pronti, Partenza, Via!",TR290267,1947,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR291776.mp3,ART25707984 - TR291776.mp3,TR291776,291776,Trainspotting,TR291776,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR292480.mp3,ART07024718 - TR292480.mp3,TR292480,292480,Nel mio piccolo,TR292480,2073,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR296960.mp3,ART25707984 - TR296960.mp3,TR296960,296960,RIN Freestyle,TR296960,2004.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR297175.mp3,ART07024718 - TR297175.mp3,TR297175,297175,Sembra semplice,TR297175,2013.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR300576.mp3,ART25707984 - TR300576.mp3,TR300576,300576,Bonus track,TR300576,2077,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR300734.mp3,ART07024718 - TR300734.mp3,TR300734,300734,My Life,TR300734,2010.0,2025-02-07,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR303682.mp3,ART07024718 - TR303682.mp3,TR303682,303682,LE MADRI DEGLI ALTRI,TR303682,2079,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR307565.mp3,ART07024718 - TR307565.mp3,TR307565,307565,Contenuti,TR307565,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR307833.mp3,ART25707984 - TR307833.mp3,TR307833,307833,Stupidi,TR307833,2025.0,2025-06-13,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR307915.mp3,ART25707984 - TR307915.mp3,TR307915,307915,A Me Di Te,TR307915,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR310455.mp3,ART07024718 - TR310455.mp3,TR310455,310455,Andare Via,TR310455,2011.0,2015-06-01,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR312732.mp3,ART25707984 - TR312732.mp3,TR312732,312732,Red Carpet,TR312732,2017.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR313565.mp3,ART07024718 - TR313565.mp3,TR313565,313565,Alfonso Signorini (Eroe Nazionale),TR313565,2013.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR314648.mp3,ART07024718 - TR314648.mp3,TR314648,314648,Vota Sì per dire No,TR314648,2011.0,2023-05-04,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR316521.mp3,ART25707984 - TR316521.mp3,TR316521,316521,Ogni giorno,TR316521,2017.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR316896.mp3,ART25707984 - TR316896.mp3,TR316896,316896,Vip In Trip,TR316896,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR320348.mp3,ART07024718 - TR320348.mp3,TR320348,320348,Vivere in campagna pubblicitaria,TR320348,2077,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR320814.mp3,ART07024718 - TR320814.mp3,TR320814,320814,Intro,TR320814,2011.0,2017-11-24,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR324941.mp3,ART25707984 - TR324941.mp3,TR324941,324941,Bugiardo,TR324941,2089,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR328499.mp3,ART07024718 - TR328499.mp3,TR328499,328499,BELLA STORIA,TR328499,2060,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR329086.mp3,ART07024718 - TR329086.mp3,TR329086,329086,Boom,TR329086,2010.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR333448.mp3,ART07024718 - TR333448.mp3,TR333448,333448,Fuckthenoia,TR333448,2094,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR336834.mp3,ART25707984 - TR336834.mp3,TR336834,336834,Capito Tutto,TR336834,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR340036.mp3,ART25707984 - TR340036.mp3,TR340036,340036,Il Tappo,TR340036,1963,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR343758.mp3,ART07024718 - TR343758.mp3,TR343758,343758,Sognatori,TR343758,1943,2024-03-06,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR344030.mp3,ART25707984 - TR344030.mp3,TR344030,344030,Ma Che Persona (Remaster 2010),TR344030,2010.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR344080.mp3,ART25707984 - TR344080.mp3,TR344080,344080,Lascia stare,TR344080,2017.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR345528.mp3,ART25707984 - TR345528.mp3,TR345528,345528,Un’Altra Chance,TR345528,2007.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR345712.mp3,ART07024718 - TR345712.mp3,TR345712,345712,Non sono partito,TR345712,2068,2017-01-20,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR348625.mp3,ART07024718 - TR348625.mp3,TR348625,348625,Blasfemia Pt.1,TR348625,2010.0,2015-03-06,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR349321.mp3,ART25707984 - TR349321.mp3,TR349321,349321,Tienila su,TR349321,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR351380.mp3,ART25707984 - TR351380.mp3,TR351380,351380,Tutto In Un Giorno,TR351380,1956,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR353282.mp3,ART07024718 - TR353282.mp3,TR353282,353282,MORIRE MORIRE,TR353282,2021.0,2013-01-01,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR356306.mp3,ART07024718 - TR356306.mp3,TR356306,356306,LA DOLCE VITA,TR356306,2077,2022-06-03,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR357474.mp3,ART07024718 - TR357474.mp3,TR357474,357474,Quello che ho,TR357474,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR363564.mp3,ART25707984 - TR363564.mp3,TR363564,363564,Freestyle Liquido,TR363564,2011.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR367642.mp3,ART07024718 - TR367642.mp3,TR367642,367642,Questa vita,TR367642,2013.0,2013-11-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR368909.mp3,ART25707984 - TR368909.mp3,TR368909,368909,Sempre Io,TR368909,2007.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR370663.mp3,ART25707984 - TR370663.mp3,TR370663,370663,Controcultura,TR370663,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR373448.mp3,ART25707984 - TR373448.mp3,TR373448,373448,Stile Libero Presente,TR373448,2012.0,2005-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR375955.mp3,ART25707984 - TR375955.mp3,TR375955,375955,Bugiardo Megamix,TR375955,1937,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR376028.mp3,ART07024718 - TR376028.mp3,TR376028,376028,SEXY SHOP,TR376028,2024.0,2024-05-31,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR376662.mp3,ART25707984 - TR376662.mp3,TR376662,376662,Certe Cose Si Sanno,TR376662,2010.0,2024-11-22,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR377739.mp3,ART07024718 - TR377739.mp3,TR377739,377739,M.I.A.,TR377739,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR382463.mp3,ART25707984 - TR382463.mp3,TR382463,382463,Le Donne,TR382463,1919,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR385951.mp3,ART25707984 - TR385951.mp3,TR385951,385951,Dio C’è,TR385951,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR388921.mp3,ART25707984 - TR388921.mp3,TR388921,388921,Che Gusto C’è,TR388921,2025.0,2025-05-23,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR392741.mp3,ART25707984 - TR392741.mp3,TR392741,392741,Idee Stupide,TR392741,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR393241.mp3,ART07024718 - TR393241.mp3,TR393241,393241,21 Grammi,TR393241,2015.0,2015-10-09,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR397401.mp3,ART25707984 - TR397401.mp3,TR397401,397401,Teoria E Pratica RMX,TR397401,2012.0,2005-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR402241.mp3,ART25707984 - TR402241.mp3,TR402241,402241,Rap Natalistico,TR402241,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR403288.mp3,ART25707984 - TR403288.mp3,TR403288,403288,Dexter,TR403288,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR403785.mp3,ART07024718 - TR403785.mp3,TR403785,403785,TONY LUCRARELLI,TR403785,2063,2024-12-13,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR405648.mp3,ART07024718 - TR405648.mp3,TR405648,405648,E intanto,TR405648,2008.0,2014-03-07,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR407335.mp3,ART25707984 - TR407335.mp3,TR407335,407335,Andiamo A Sanremo,TR407335,2007.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR408042.mp3,ART25707984 - TR408042.mp3,TR408042,408042,2031 (Intro),TR408042,1924,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR409731.mp3,ART25707984 - TR409731.mp3,TR409731,409731,Non Correre,TR409731,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR411730.mp3,ART07024718 - TR411730.mp3,TR411730,411730,Ipocondria,TR411730,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR412854.mp3,ART25707984 - TR412854.mp3,TR412854,412854,Pronti Al Peggio,TR412854,2061,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR413349.mp3,ART07024718 - TR413349.mp3,TR413349,413349,Liberi in cattività,TR413349,1944,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR414330.mp3,ART07024718 - TR414330.mp3,TR414330,414330,BANCOMAT,TR414330,,2017-07-11,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR414333.mp3,ART25707984 - TR414333.mp3,TR414333,414333,Troppo Di Tutto (Guerra E Pace Deluxe Edition Bonus Track),TR414333,2013.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR417353.mp3,ART07024718 - TR417353.mp3,TR417353,417353,Vite Diverse,TR417353,2007.0,2016-09-09,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR418852.mp3,ART25707984 - TR418852.mp3,TR418852,418852,Fenomeno (Early Demo),TR418852,2019.0,2019-10-24,compilation,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR419042.mp3,ART07024718 - TR419042.mp3,TR419042,419042,Ultima Cena,TR419042,2007.0,2024-03-01,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR420224.mp3,ART25707984 - TR420224.mp3,TR420224,420224,Brut,TR420224,2017.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR420459.mp3,ART25707984 - TR420459.mp3,TR420459,420459,Bonus Track (Turbe Giovanili),TR420459,2010.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR424045.mp3,ART25707984 - TR424045.mp3,TR424045,424045,Nessuno Lo Dice,TR424045,2094,2013-02-05,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR424160.mp3,ART07024718 - TR424160.mp3,TR424160,424160,Santa Madonna,TR424160,1948,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR428096.mp3,ART25707984 - TR428096.mp3,TR428096,428096,Questo È Il Nuovo Singolo,TR428096,2007.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR428837.mp3,ART07024718 - TR428837.mp3,TR428837,428837,Mollami,TR428837,2011.0,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR430939.mp3,ART07024718 - TR430939.mp3,TR430939,430939,Come no,TR430939,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR434327.mp3,ART25707984 - TR434327.mp3,TR434327,434327,Stavo pensando a te,TR434327,1965,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR435845.mp3,ART25707984 - TR435845.mp3,TR435845,435845,Intro Casus Belli,TR435845,2012.0,2009-04-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR438358.mp3,ART25707984 - TR438358.mp3,TR438358,438358,Ringrazio,TR438358,2017.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR443742.mp3,ART25707984 - TR443742.mp3,TR443742,443742,Momenti no,TR443742,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR444078.mp3,ART07024718 - TR444078.mp3,TR444078,444078,I’m So High,TR444078,2011.0,2025-02-07,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR444433.mp3,ART25707984 - TR444433.mp3,TR444433,444433,Propaganda,TR444433,2022.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR445086.mp3,ART25707984 - TR445086.mp3,TR445086,445086,Ci Penso Dopo,TR445086,2002.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR446619.mp3,ART25707984 - TR446619.mp3,TR446619,446619,Andiamo,TR446619,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR448308.mp3,ART25707984 - TR448308.mp3,TR448308,448308,Lascia Un Segno,TR448308,2019.0,2019-10-24,compilation,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR448877.mp3,ART07024718 - TR448877.mp3,TR448877,448877,Prima di ogni cosa,TR448877,2018.0,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR451705.mp3,ART25707984 - TR451705.mp3,TR451705,451705,Zelensky (Red Bull 64 Bars),TR451705,2025.0,2025-05-13,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR453640.mp3,ART07024718 - TR453640.mp3,TR453640,453640,SAPORE,TR453640,2021.0,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR455665.mp3,ART25707984 - TR455665.mp3,TR455665,455665,Personaggi Di Passaggio,TR455665,2002.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR456894.mp3,ART25707984 - TR456894.mp3,TR456894,456894,Stavo Pensando A Te (Re-Edit),TR456894,2017.0,2025-05-16,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR459295.mp3,ART07024718 - TR459295.mp3,TR459295,459295,Caro Amico,TR459295,2011.0,1979,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR459679.mp3,ART07024718 - TR459679.mp3,TR459679,459679,NOTTE BRAVA,TR459679,2021.0,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR466354.mp3,ART25707984 - TR466354.mp3,TR466354,466354,Un Calmante,TR466354,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR466521.mp3,ART25707984 - TR466521.mp3,TR466521,466521,Venerdì diciassette,TR466521,2098,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR472274.mp3,ART07024718 - TR472274.mp3,TR472274,472274,No Game Freestyle,TR472274,2021.0,2022-11-03,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR472380.mp3,ART25707984 - TR472380.mp3,TR472380,472380,Faccio sul serio,TR472380,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR475897.mp3,ART25707984 - TR475897.mp3,TR475897,475897,Sono Hip Hop,TR475897,2011.0,2009-01-01,compilation,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR476850.mp3,ART07024718 - TR476850.mp3,TR476850,476850,Milano Bene (2008),TR476850,2056,2025-04-10,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR478130.mp3,ART07024718 - TR478130.mp3,TR478130,478130,FEDE E SPERANZA,TR478130,2021.0,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR479793.mp3,ART25707984 - TR479793.mp3,TR479793,479793,Questa Vita,TR479793,2007.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR480259.mp3,ART07024718 - TR480259.mp3,TR480259,480259,ROSALÍA,TR480259,2086,2024-05-29,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR481276.mp3,ART25707984 - TR481276.mp3,TR481276,481276,Brutto Figlio Di,TR481276,2022.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR482736.mp3,ART25707984 - TR482736.mp3,TR482736,482736,Da questo locale,TR482736,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR483704.mp3,ART25707984 - TR483704.mp3,TR483704,483704,È Un Tuo Problema,TR483704,2008.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR484122.mp3,ART25707984 - TR484122.mp3,TR484122,484122,Nella Scena,TR484122,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR484857.mp3,ART25707984 - TR484857.mp3,TR484857,484857,Ogni Donna,TR484857,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR485842.mp3,ART07024718 - TR485842.mp3,TR485842,485842,Lo zainetto,TR485842,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR490859.mp3,ART07024718 - TR490859.mp3,TR490859,490859,Voglio averti account,TR490859,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR492188.mp3,ART25707984 - TR492188.mp3,TR492188,492188,Fuori Norma,TR492188,1909,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR496653.mp3,ART07024718 - TR496653.mp3,TR496653,496653,Magnifico,TR496653,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR497858.mp3,ART25707984 - TR497858.mp3,TR497858,497858,Niente male,TR497858,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR498962.mp3,ART07024718 - TR498962.mp3,TR498962,498962,Single a vita,TR498962,2013.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR503521.mp3,ART25707984 - TR503521.mp3,TR503521,503521,E Tu Ci Convivi,TR503521,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR505289.mp3,ART07024718 - TR505289.mp3,TR505289,505289,Blasfemia Pt.2,TR505289,2011.0,2023-04-28,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR506768.mp3,ART25707984 - TR506768.mp3,TR506768,506768,Troppo Famoso,TR506768,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR508264.mp3,ART25707984 - TR508264.mp3,TR508264,508264,Amici O Nemici,TR508264,2022.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR511007.mp3,ART07024718 - TR511007.mp3,TR511007,511007,Olivia Oil,TR511007,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR511876.mp3,ART07024718 - TR511876.mp3,TR511876,511876,Dai cazzo Federico,TR511876,2012.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR512155.mp3,ART25707984 - TR512155.mp3,TR512155,512155,Intro,TR512155,2016.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR517220.mp3,ART25707984 - TR517220.mp3,TR517220,517220,In Quel Posto,TR517220,2009.0,2009-04-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR518927.mp3,ART25707984 - TR518927.mp3,TR518927,518927,Liberi,TR518927,2022.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR519371.mp3,ART25707984 - TR519371.mp3,TR519371,519371,In Testa,TR519371,2009.0,2009-04-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR525256.mp3,ART07024718 - TR525256.mp3,TR525256,525256,Restiamo umani,TR525256,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR525576.mp3,ART25707984 - TR525576.mp3,TR525576,525576,Come Vasco,TR525576,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR531180.mp3,ART07024718 - TR531180.mp3,TR531180,531180,Bella vita,TR531180,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR532822.mp3,ART25707984 - TR532822.mp3,TR532822,532822,3 Parole,TR532822,1923,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR537942.mp3,ART25707984 - TR537942.mp3,TR537942,537942,Che Tempi,TR537942,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR539870.mp3,ART25707984 - TR539870.mp3,TR539870,539870,Come Totti,TR539870,1901,2013-02-05,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR539926.mp3,ART25707984 - TR539926.mp3,TR539926,539926,Caos,TR539926,1917,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR540123.mp3,ART25707984 - TR540123.mp3,TR540123,540123,Freestyle Gasato,TR540123,2011.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR540185.mp3,ART07024718 - TR540185.mp3,TR540185,540185,Cigno nero,TR540185,2013.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR546164.mp3,ART07024718 - TR546164.mp3,TR546164,546164,STUPIDO STUPIDO,TR546164,2021.0,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR547354.mp3,ART25707984 - TR547354.mp3,TR547354,547354,Tutti In Quarantena (Coronavirus Freestyle),TR547354,2020.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR547400.mp3,ART25707984 - TR547400.mp3,TR547400,547400,La Fretta,TR547400,2060,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR550520.mp3,ART07024718 - TR550520.mp3,TR550520,550520,Ti Dico Bene,TR550520,2066,2022-04-07,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR550536.mp3,ART25707984 - TR550536.mp3,TR550536,550536,Non fare la puttana,TR550536,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR552809.mp3,ART07024718 - TR552809.mp3,TR552809,552809,Psichedelico,TR552809,2013.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR553134.mp3,ART25707984 - TR553134.mp3,TR553134,553134,Still Dre freestyle,TR553134,,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR554964.mp3,ART25707984 - TR554964.mp3,TR554964,554964,In Italia,TR554964,1951,2024-02-23,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR561056.mp3,ART25707984 - TR561056.mp3,TR561056,561056,Non C’è Tempo,TR561056,1906,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR561901.mp3,ART25707984 - TR561901.mp3,TR561901,561901,Ah Yeah Mr. Simpatia,TR561901,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR564478.mp3,ART07024718 - TR564478.mp3,TR564478,564478,Non Mi Piacciono,TR564478,2010.0,2025-03-28,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR564816.mp3,ART25707984 - TR564816.mp3,TR564816,564816,Mr. Simpatia,TR564816,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR565958.mp3,ART25707984 - TR565958.mp3,TR565958,565958,Sento le Sirene,TR565958,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR569937.mp3,ART07024718 - TR569937.mp3,TR569937,569937,Anthem Pt.2,TR569937,2011.0,2012-10-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR572044.mp3,ART07024718 - TR572044.mp3,TR572044,572044,LEGGERI LEGGERI,TR572044,1934,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR576460.mp3,ART07024718 - TR576460.mp3,TR576460,576460,DISCO PARADISE,TR576460,2023.0,2023-05-25,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR580051.mp3,ART25707984 - TR580051.mp3,TR580051,580051,Dagli Sbagli Si Impara,TR580051,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR580721.mp3,ART07024718 - TR580721.mp3,TR580721,580721,Tutto il Contrario RMX,TR580721,2052,2015-04-07,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR581440.mp3,ART25707984 - TR581440.mp3,TR581440,581440,Prima Che Sia Domani,TR581440,2011.0,2019-10-24,compilation,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR583833.mp3,ART07024718 - TR583833.mp3,TR583833,583833,La Sua Storia,TR583833,2007.0,2022-03-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR588490.mp3,ART25707984 - TR588490.mp3,TR588490,588490,Quelle Radio,TR588490,2011.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR588523.mp3,ART25707984 - TR588523.mp3,TR588523,588523,Cane Mangia Cane,TR588523,2019.0,2019-10-24,compilation,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR589489.mp3,ART25707984 - TR589489.mp3,TR589489,589489,Niente Di Personale,TR589489,2014.0,2014-03-26,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR591050.mp3,ART25707984 - TR591050.mp3,TR591050,591050,In Italia (English Version),TR591050,2065,2009-04-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR591345.mp3,ART07024718 - TR591345.mp3,TR591345,591345,UN GIORNO IN PRETURA,TR591345,2021.0,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR591366.mp3,ART25707984 - TR591366.mp3,TR591366,591366,Luna Piena,TR591366,2002.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR591369.mp3,ART25707984 - TR591369.mp3,TR591369,591369,Non crollo,TR591369,1948,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR593858.mp3,ART25707984 - TR593858.mp3,TR593858,593858,Non Provo Più Niente,TR593858,2007.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR595842.mp3,ART07024718 - TR595842.mp3,TR595842,595842,God war,TR595842,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR597065.mp3,ART25707984 - TR597065.mp3,TR597065,597065,Luna,TR597065,2017.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR597348.mp3,ART25707984 - TR597348.mp3,TR597348,597348,Qualche Limite,TR597348,v9Gs4k,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR600057.mp3,ART25707984 - TR600057.mp3,TR600057,600057,Meglio Me Che Te,TR600057,2069,2017-11-17,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR601309.mp3,ART07024718 - TR601309.mp3,TR601309,601309,Love cost,TR601309,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR601703.mp3,ART07024718 - TR601703.mp3,TR601703,601703,Cigno Nero RMX,TR601703,2024.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR605119.mp3,ART25707984 - TR605119.mp3,TR605119,605119,Non siamo in America,TR605119,2081,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR606252.mp3,ART07024718 - TR606252.mp3,TR606252,606252,Avvoltoi,TR606252,2010.0,2017-01-20,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR607550.mp3,ART25707984 - TR607550.mp3,TR607550,607550,In Alto,TR607550,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR608745.mp3,ART07024718 - TR608745.mp3,TR608745,608745,L’una per l’alcol,TR608745,2019.0,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR609228.mp3,ART07024718 - TR609228.mp3,TR609228,609228,Presa bene (ogni tanto),TR609228,2013.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR609770.mp3,ART25707984 - TR609770.mp3,TR609770,609770,Money For Dope 2017,TR609770,2017.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR611877.mp3,ART07024718 - TR611877.mp3,TR611877,611877,Che cazzo ridi,TR611877,2019.0,2019-01-04,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR613459.mp3,ART25707984 - TR613459.mp3,TR613459,613459,Applausi Per Fibra,TR613459,1911,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR614818.mp3,ART07024718 - TR614818.mp3,TR614818,614818,Non basta mai,TR614818,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR618043.mp3,ART25707984 - TR618043.mp3,TR618043,618043,Freestyle Nuova Scena 2,TR618043,2025.0,2025-04-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR622333.mp3,ART07024718 - TR622333.mp3,TR622333,622333,Penisola che non c’è,TR622333,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR625764.mp3,ART07024718 - TR625764.mp3,TR625764,625764,Ti vorrei dire,TR625764,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR627217.mp3,ART07024718 - TR627217.mp3,TR627217,627217,FUORI DAI GUAI,TR627217,2021.0,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR628557.mp3,ART25707984 - TR628557.mp3,TR628557,628557,Qui Dentro,TR628557,2016.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR632060.mp3,ART25707984 - TR632060.mp3,TR632060,632060,La Pula Bussò,TR632060,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR633813.mp3,ART25707984 - TR633813.mp3,TR633813,633813,Frank Sinatra,TR633813,2095,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR636326.mp3,ART07024718 - TR636326.mp3,TR636326,636326,Listino prezzi,TR636326,1971,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR643848.mp3,ART07024718 - TR643848.mp3,TR643848,643848,Unica al mondo,TR643848,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR645853.mp3,ART07024718 - TR645853.mp3,TR645853,645853,Non c’è due senza trash,TR645853,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR646735.mp3,ART25707984 - TR646735.mp3,TR646735,646735,Guerra E Pace,TR646735,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR650447.mp3,ART07024718 - TR650447.mp3,TR650447,650447,Kim & Kanye,TR650447,2060,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR660156.mp3,ART07024718 - TR660156.mp3,TR660156,660156,Ninna nanna,TR660156,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR669412.mp3,ART07024718 - TR669412.mp3,TR669412,669412,Intro (BCPT),TR669412,1962,2018-05-21,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR671007.mp3,ART25707984 - TR671007.mp3,TR671007,671007,Il Triangolo Sì,TR671007,2099,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR672131.mp3,ART25707984 - TR672131.mp3,TR672131,672131,Amnesia,TR672131,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR672561.mp3,ART25707984 - TR672561.mp3,TR672561,672561,Questo Pezzo,TR672561,1972,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR674523.mp3,ART07024718 - TR674523.mp3,TR674523,674523,Nuvole di fango,TR674523,2013.0,2013-11-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR674551.mp3,ART07024718 - TR674551.mp3,TR674551,674551,Into My Head,TR674551,2010.0,2004,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR674795.mp3,ART25707984 - TR674795.mp3,TR674795,674795,Per Averti Qui,TR674795,2002.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR675727.mp3,ART07024718 - TR675727.mp3,TR675727,675727,BIMBI PER STRADA (CHILDREN),TR675727,2020.0,2020-06-11,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR676171.mp3,ART25707984 - TR676171.mp3,TR676171,676171,Denaro Contante,TR676171,2012.0,2013-02-05,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR676684.mp3,ART07024718 - TR676684.mp3,TR676684,676684,Old Girl,TR676684,2011.0,2019-07-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR680926.mp3,ART07024718 - TR680926.mp3,TR680926,680926,SUSHI,TR680926,,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR684216.mp3,ART07024718 - TR684216.mp3,TR684216,684216,TVTB,TR684216,2019.0,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR686134.mp3,ART07024718 - TR686134.mp3,TR686134,686134,Cambia,TR686134,2013.0,2013-11-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR686371.mp3,ART25707984 - TR686371.mp3,TR686371,686371,La Soluzione,TR686371,2007.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR690143.mp3,ART25707984 - TR690143.mp3,TR690143,690143,Mai Smesso,TR690143,2019.0,2019-10-24,compilation,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR691943.mp3,ART07024718 - TR691943.mp3,TR691943,691943,MEGLIO DEL CINEMA,TR691943,2021.0,2021-09-24,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR693043.mp3,ART25707984 - TR693043.mp3,TR693043,693043,Voglio Sapere,TR693043,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR693094.mp3,ART07024718 - TR693094.mp3,TR693094,693094,Pensavo fosse amore e invece... (Roofio RMX),TR693094,2013.0,2018-11-30,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR696046.mp3,ART25707984 - TR696046.mp3,TR696046,696046,Tipe Come Te,TR696046,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR700059.mp3,ART07024718 - TR700059.mp3,TR700059,700059,Non ci pensi mai,TR700059,2090,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR700280.mp3,ART25707984 - TR700280.mp3,TR700280,700280,Tony Hawk,TR700280,2017.0,2017-11-17,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR701532.mp3,ART07024718 - TR701532.mp3,TR701532,701532,Sfregi e difetti,TR701532,2019.0,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR703446.mp3,ART25707984 - TR703446.mp3,TR703446,703446,Freestyle,TR703446,2010.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR704705.mp3,ART25707984 - TR704705.mp3,TR704705,704705,Non Faccio Male,TR704705,2006.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR705159.mp3,ART25707984 - TR705159.mp3,TR705159,705159,A Casa,TR705159,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR708095.mp3,ART07024718 - TR708095.mp3,TR708095,708095,ALLUCINAZIONE COLLETTIVA,TR708095,2024.0,2024-09-21,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR708528.mp3,ART07024718 - TR708528.mp3,TR708528,708528,Appeso a testa in giù,TR708528,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR709016.mp3,ART25707984 - TR709016.mp3,TR709016,709016,Intro (Rima Dopo Rima),TR709016,2013.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR709616.mp3,ART25707984 - TR709616.mp3,TR709616,709616,Palle piene,TR709616,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR709968.mp3,ART25707984 - TR709968.mp3,TR709968,709968,Nemico Pubblico,TR709968,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR721039.mp3,ART07024718 - TR721039.mp3,TR721039,721039,Così,TR721039,2019.0,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR722654.mp3,ART07024718 - TR722654.mp3,TR722654,722654,Le palle di Natale,TR722654,2072,2014-03-07,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR724010.mp3,ART25707984 - TR724010.mp3,TR724010,724010,Rivelazione,TR724010,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR724796.mp3,ART25707984 - TR724796.mp3,TR724796,724796,Il Tempo Vola (Original Extended),TR724796,2017.0,2017-05-05,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR731111.mp3,ART07024718 - TR731111.mp3,TR731111,731111,Faccio brutto,TR731111,2013.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR731271.mp3,ART25707984 - TR731271.mp3,TR731271,731271,Mani Pulite,TR731271,2012.0,2013-02-05,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR731379.mp3,ART07024718 - TR731379.mp3,TR731379,731379,Record,TR731379,2019.0,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR731668.mp3,ART07024718 - TR731668.mp3,TR731668,731668,Amnesia,TR731668,2019.0,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR733092.mp3,ART25707984 - TR733092.mp3,TR733092,733092,Non me ne frega un cazzo,TR733092,2015.0,2020-06-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR735029.mp3,ART25707984 - TR735029.mp3,TR735029,735029,Tu Così Bella Non Ce L’Hai,TR735029,1966,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR736278.mp3,ART25707984 - TR736278.mp3,TR736278,736278,La Posta Di Fibra,TR736278,2007.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR737536.mp3,ART25707984 - TR737536.mp3,TR737536,737536,Intro Quorum,TR737536,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR739865.mp3,ART07024718 - TR739865.mp3,TR739865,739865,Paranoia Airlines,TR739865,2019.0,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR739987.mp3,ART25707984 - TR739987.mp3,TR739987,739987,Freestyle a Radio Deejay,TR739987,2007.0,2019-05-03,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR742051.mp3,ART25707984 - TR742051.mp3,TR742051,742051,Stile Libero Futuristico,TR742051,2012.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR744298.mp3,ART25707984 - TR744298.mp3,TR744298,744298,Cronico,TR744298,2017.0,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR745549.mp3,ART07024718 - TR745549.mp3,TR745549,745549,Giorni,TR745549,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR750485.mp3,ART07024718 - TR750485.mp3,TR750485,750485,Parli di rap?,TR750485,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR751110.mp3,ART25707984 - TR751110.mp3,TR751110,751110,Tranne Te e Te,TR751110,2011.0,2024-10-25,compilation,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR751225.mp3,ART25707984 - TR751225.mp3,TR751225,751225,Tradimento Freestyle,TR751225,2006.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR754276.mp3,ART25707984 - TR754276.mp3,TR754276,754276,Chi C’è,TR754276,2002.0,2019-05-03,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR759934.mp3,ART07024718 - TR759934.mp3,TR759934,759934,BELLA STRONZA,TR759934,2025.0,2025-02-15,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR761059.mp3,ART07024718 - TR761059.mp3,TR761059,761059,Stereo-tipi,TR761059,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR762452.mp3,ART25707984 - TR762452.mp3,TR762452,762452,Insensibile,TR762452,1933,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR764435.mp3,ART07024718 - TR764435.mp3,TR764435,764435,Reality show,TR764435,1945,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR765677.mp3,ART25707984 - TR765677.mp3,TR765677,765677,Freestyle Solido,TR765677,1926,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR765689.mp3,ART07024718 - TR765689.mp3,TR765689,765689,Storie Di Vite,TR765689,2098,2021-06-10,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR770488.mp3,ART25707984 - TR770488.mp3,TR770488,770488,Equilibrio,TR770488,2085,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR770885.mp3,ART07024718 - TR770885.mp3,TR770885,770885,3 di notte,TR770885,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR772758.mp3,ART25707984 - TR772758.mp3,TR772758,772758,Rap in vena,TR772758,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR775377.mp3,ART25707984 - TR775377.mp3,TR775377,775377,La Pula Bussò 2016,TR775377,2016.0,2016-06-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR778894.mp3,ART25707984 - TR778894.mp3,TR778894,778894,Hip Hop,TR778894,2008.0,2018-05-01,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR779112.mp3,ART07024718 - TR779112.mp3,TR779112,779112,Io Odio I Club,TR779112,2007.0,2015-04-07,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR781890.mp3,ART07024718 - TR781890.mp3,TR781890,781890,B-Rex Status Domini,TR781890,1902,2017-01-20,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR788528.mp3,ART07024718 - TR788528.mp3,TR788528,788528,Segni,TR788528,2019.0,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR791255.mp3,ART07024718 - TR791255.mp3,TR791255,791255,Veleno per topic,TR791255,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR793808.mp3,ART25707984 - TR793808.mp3,TR793808,793808,In Quanti?,TR793808,2002.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR799409.mp3,ART25707984 - TR799409.mp3,TR799409,799409,Pamplona,TR799409,2077,2017-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR800085.mp3,ART25707984 - TR800085.mp3,TR800085,800085,Collezione Megamix,TR800085,2011.0,2001-03-02,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR801490.mp3,ART25707984 - TR801490.mp3,TR801490,801490,Noia,TR801490,2022.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR802307.mp3,ART07024718 - TR802307.mp3,TR802307,802307,Moet Sciandon,TR802307,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR803061.mp3,ART25707984 - TR803061.mp3,TR803061,803061,Alla Fine Di Tutto Questo,TR803061,2009.0,2009-04-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR808663.mp3,ART07024718 - TR808663.mp3,TR808663,808663,Back In Days,TR808663,2007.0,2015-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR809759.mp3,ART07024718 - TR809759.mp3,TR809759,809759,Ghettopianerottolo RMX,TR809759,2007.0,2024-05-31,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR811753.mp3,ART25707984 - TR811753.mp3,TR811753,811753,Rap In Guerra,TR811753,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR813706.mp3,ART25707984 - TR813706.mp3,TR813706,813706,Nuovi Stili D’Insonnia,TR813706,2002.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR816395.mp3,ART07024718 - TR816395.mp3,TR816395,816395,Viva l’IVA,TR816395,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR824115.mp3,ART07024718 - TR824115.mp3,TR824115,824115,Una cosa sola,TR824115,2097,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR828726.mp3,ART07024718 - TR828726.mp3,TR828726,828726,Babbo Natale mi ha detto che i tuoi genitori non esistono,TR828726,2013.0,2024-09-21,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR830393.mp3,ART07024718 - TR830393.mp3,TR830393,830393,SCELTE STUPIDE,TR830393,2025.0,2025-05-02,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR831827.mp3,ART25707984 - TR831827.mp3,TR831827,831827,Cento Modi Per Morire,TR831827,2007.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR832166.mp3,ART07024718 - TR832166.mp3,TR832166,832166,MEGLIO DEL CINEMA (clean),TR832166,2021.0,2022-04-07,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR835623.mp3,ART25707984 - TR835623.mp3,TR835623,835623,Quentin Tarantino,TR835623,2019.0,2019-10-24,compilation,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR837586.mp3,ART25707984 - TR837586.mp3,TR837586,837586,Su Le Mani 2016,TR837586,1959,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR838304.mp3,ART25707984 - TR838304.mp3,TR838304,838304,CVDM,TR838304,2017.0,2017-11-13,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR840338.mp3,ART07024718 - TR840338.mp3,TR840338,840338,Un posto bellissimo,TR840338,2019.0,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR840488.mp3,ART07024718 - TR840488.mp3,TR840488,840488,L’hai voluto tu,TR840488,1951,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR842840.mp3,ART07024718 - TR842840.mp3,TR842840,842840,Non Ci Sto Più Dentro,TR842840,2010.0,2015-06-01,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR842852.mp3,ART25707984 - TR842852.mp3,TR842852,842852,Se Non Dai Il Meglio (Non Io),TR842852,2002.0,2002-02-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR843290.mp3,ART07024718 - TR843290.mp3,TR843290,843290,Signorsì,TR843290,1921,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR844036.mp3,ART25707984 - TR844036.mp3,TR844036,844036,Via Vai,TR844036,2009.0,2009-04-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR844218.mp3,ART25707984 - TR844218.mp3,TR844218,844218,A Volte,TR844218,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR845296.mp3,ART07024718 - TR845296.mp3,TR845296,845296,Buongiornissimo,TR845296,2019.0,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR845385.mp3,ART07024718 - TR845385.mp3,TR845385,845385,CRISI DI STATO,TR845385,2022.0,2022-12-09,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR845575.mp3,ART25707984 - TR845575.mp3,TR845575,845575,Tranne Te Megamix,TR845575,2011.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR846247.mp3,ART07024718 - TR846247.mp3,TR846247,846247,Soffritto,TR846247,2097,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR848166.mp3,ART25707984 - TR848166.mp3,TR848166,848166,Coccole,TR848166,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR850160.mp3,ART07024718 - TR850160.mp3,TR850160,850160,Holding Out for You,TR850160,2019.0,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR854907.mp3,ART07024718 - TR854907.mp3,TR854907,854907,BATTITO,TR854907,2025.0,2025-02-12,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR855293.mp3,ART25707984 - TR855293.mp3,TR855293,855293,Scappa!,TR855293,2006.0,2008-06-16,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR856882.mp3,ART07024718 - TR856882.mp3,TR856882,856882,Outro,TR856882,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR857398.mp3,ART25707984 - TR857398.mp3,TR857398,857398,Ma Che Persona,TR857398,1916,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR860002.mp3,ART07024718 - TR860002.mp3,TR860002,860002,VECCHIO,TR860002,2021.0,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR863568.mp3,ART25707984 - TR863568.mp3,TR863568,863568,Il Rap Nel Mio Paese,TR863568,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR866344.mp3,ART25707984 - TR866344.mp3,TR866344,866344,L’italiano balla,TR866344,2012.0,2012-07-01,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR866727.mp3,ART25707984 - TR866727.mp3,TR866727,866727,Tranne Te,TR866727,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR868123.mp3,ART25707984 - TR868123.mp3,TR868123,868123,Grandi Viaggi,TR868123,2088,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR869701.mp3,ART07024718 - TR869701.mp3,TR869701,869701,GUARDA COSA MI FAI FARE,TR869701,2093,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR870721.mp3,ART25707984 - TR870721.mp3,TR870721,870721,Cattiverie,TR870721,2007.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR871111.mp3,ART25707984 - TR871111.mp3,TR871111,871111,Dalla A Alla Zeta,TR871111,2002.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR872232.mp3,ART25707984 - TR872232.mp3,TR872232,872232,Teoria E Pratica,TR872232,2012.0,2013-02-05,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR873026.mp3,ART25707984 - TR873026.mp3,TR873026,873026,Commerciale,TR873026,2093,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR877490.mp3,ART25707984 - TR877490.mp3,TR877490,877490,Rock That Shit,TR877490,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR877889.mp3,ART25707984 - TR877889.mp3,TR877889,877889,Quorum,TR877889,2010.0,2010-09-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR878128.mp3,ART25707984 - TR878128.mp3,TR878128,878128,Potevi Essere Tu,TR878128,2007.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR884950.mp3,ART25707984 - TR884950.mp3,TR884950,884950,GoodFellas,TR884950,2022.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR885055.mp3,ART07024718 - TR885055.mp3,TR885055,885055,Si Muovono Le...,TR885055,2010.0,2025-05-08,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR887990.mp3,ART25707984 - TR887990.mp3,TR887990,887990,Rompiti Il Collo,TR887990,2091,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR888500.mp3,ART25707984 - TR888500.mp3,TR888500,888500,Non Ditelo,TR888500,2010.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR895378.mp3,ART25707984 - TR895378.mp3,TR895378,895378,Numero Uno,TR895378,2011.0,2009-04-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR895644.mp3,ART25707984 - TR895644.mp3,TR895644,895644,Fai Come Noi,TR895644,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR895785.mp3,ART25707984 - TR895785.mp3,TR895785,895785,Mi Stai Sul Cazzo,TR895785,2002.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR897360.mp3,ART07024718 - TR897360.mp3,TR897360,897360,Polaroid,TR897360,2013.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR901226.mp3,ART07024718 - TR901226.mp3,TR901226,901226,DI CAPRIO,TR901226,2024.0,2024-09-13,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR901455.mp3,ART25707984 - TR901455.mp3,TR901455,901455,Sulla Giostra,TR901455,2022.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR903036.mp3,ART25707984 - TR903036.mp3,TR903036,903036,Speak English,TR903036,1949,2009-04-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR904041.mp3,ART25707984 - TR904041.mp3,TR904041,904041,Arrivano,TR904041,2008.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR904420.mp3,ART25707984 - TR904420.mp3,TR904420,904420,Double Trouble,TR904420,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR910855.mp3,ART25707984 - TR910855.mp3,TR910855,910855,Il Più Pazzo,TR910855,2100,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR912864.mp3,ART07024718 - TR912864.mp3,TR912864,912864,Chiediti il perchè,TR912864,2007.0,2025-05-16,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR917955.mp3,ART25707984 - TR917955.mp3,TR917955,917955,Cosa Avevi Capito?,TR917955,2015.0,2015-04-07,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR919804.mp3,ART07024718 - TR919804.mp3,TR919804,919804,MI STO SUL CAZZO,TR919804,2021.0,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR920592.mp3,ART25707984 - TR920592.mp3,TR920592,920592,Pensa Per Te,TR920592,2017.0,2017-11-17,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR924511.mp3,ART07024718 - TR924511.mp3,TR924511,924511,Alza la testa,TR924511,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR925275.mp3,ART07024718 - TR925275.mp3,TR925275,925275,Bimbo Speciale,TR925275,2011.0,2021-01-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR930775.mp3,ART07024718 - TR930775.mp3,TR930775,930775,Si scrive schiavitù si legge libertà,TR930775,2013.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR931663.mp3,ART25707984 - TR931663.mp3,TR931663,931663,Bisogna Scrivere,TR931663,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR932768.mp3,ART25707984 - TR932768.mp3,TR932768,932768,+ -,TR932768,2010.0,2025-05-23,single,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR933884.mp3,ART25707984 - TR933884.mp3,TR933884,933884,Fumo Erba,TR933884,2022.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR935336.mp3,ART25707984 - TR935336.mp3,TR935336,935336,Dove Fuggi?,TR935336,2002.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR935622.mp3,ART25707984 - TR935622.mp3,TR935622,935622,L’uomo nel mirino,TR935622,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR935995.mp3,ART07024718 - TR935995.mp3,TR935995,935995,Faccio Brutto (2nd Roof RMX),TR935995,2013.0,2022-03-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR939101.mp3,ART07024718 - TR939101.mp3,TR939101,939101,The Ferragnez: La serie - Sigla ufficiale,TR939101,2021.0,2024-05-31,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR940609.mp3,ART25707984 - TR940609.mp3,TR940609,940609,Sotto Shock,TR940609,2011.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR941156.mp3,ART25707984 - TR941156.mp3,TR941156,941156,Parole In Fumo,TR941156,2012.0,2013-02-05,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR942520.mp3,ART25707984 - TR942520.mp3,TR942520,942520,Che Cazzata,TR942520,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR943143.mp3,ART25707984 - TR943143.mp3,TR943143,943143,Nessuno,TR943143,1965,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR943904.mp3,ART07024718 - TR943904.mp3,TR943904,943904,Cosa senza spine,TR943904,1919,2019-01-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR943991.mp3,ART07024718 - TR943991.mp3,TR943991,943991,Real Randagi,TR943991,2010.0,2021-05-25,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR944243.mp3,ART07024718 - TR944243.mp3,TR944243,944243,Non scorderò,TR944243,2011.0,2013-06-18,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR946148.mp3,ART07024718 - TR946148.mp3,TR946148,946148,Beautiful Disaster,TR946148,2015.0,2015-10-09,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR946363.mp3,ART25707984 - TR946363.mp3,TR946363,946363,Vado Via,TR946363,2012.0,2002,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR952064.mp3,ART07024718 - TR952064.mp3,TR952064,952064,Sirene,TR952064,2014.0,2014-10-14,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR953399.mp3,ART07024718 - TR953399.mp3,TR953399,953399,La Mia Generazione,TR953399,2010.0,2025-04-10,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR955411.mp3,ART07024718 - TR955411.mp3,TR955411,955411,Penisola che non c’è RMX,TR955411,2011.0,2025-05-16,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR955916.mp3,ART25707984 - TR955916.mp3,TR955916,955916,Il Mio Amico Arnold,TR955916,2012.0,2013-02-05,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR957389.mp3,ART25707984 - TR957389.mp3,TR957389,957389,Donna Famosa,TR957389,2009.0,2009-04-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR957680.mp3,ART25707984 - TR957680.mp3,TR957680,957680,Le Ragazze,TR957680,2007.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR958743.mp3,ART25707984 - TR958743.mp3,TR958743,958743,Nel Mio Disco,TR958743,2010.0,2007,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR960740.mp3,ART25707984 - TR960740.mp3,TR960740,960740,Voglio farti un regalo,TR960740,2004.0,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR961564.mp3,ART25707984 - TR961564.mp3,TR961564,961564,Nel Bene O Nel Male,TR961564,2019.0,2019-10-24,compilation,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR962108.mp3,ART25707984 - TR962108.mp3,TR962108,962108,El Diablo,TR962108,2022.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR965133.mp3,ART07024718 - TR965133.mp3,TR965133,965133,NANANANA,TR965133,2009.0,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR975085.mp3,ART25707984 - TR975085.mp3,TR975085,975085,Tutti In Campana,TR975085,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR975112.mp3,ART25707984 - TR975112.mp3,TR975112,975112,Rompiti Il Collo 2016,TR975112,2016.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR975259.mp3,ART07024718 - TR975259.mp3,TR975259,975259,Volevo Fare Il Rapper RMX,TR975259,2011.0,2015-06-01,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR977799.mp3,ART25707984 - TR977799.mp3,TR977799,977799,Dieci Euro In Tasca,TR977799,2100,2009-04-10,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR978195.mp3,ART25707984 - TR978195.mp3,TR978195,978195,Tutti Matti,TR978195,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR978886.mp3,ART07024718 - TR978886.mp3,TR978886,978886,L’arte di accontentare,TR978886,1953,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR981117.mp3,ART07024718 - TR981117.mp3,TR981117,981117,LA CASSA SPINGE 2021,TR981117,2021.0,2021-11-26,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR981948.mp3,ART25707984 - TR981948.mp3,TR981948,981948,Che Casino,TR981948,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR983233.mp3,ART25707984 - TR983233.mp3,TR983233,983233,Idee Stupide 2016,TR983233,1906,2004-09-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR986135.mp3,ART07024718 - TR986135.mp3,TR986135,986135,Dove Si Va,TR986135,2010.0,2020-07-03,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR988738.mp3,ART25707984 - TR988738.mp3,TR988738,988738,Escort,TR988738,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR990945.mp3,ART25707984 - TR990945.mp3,TR990945,990945,Qualcuno Normale,TR990945,2010.0,2010-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR991289.mp3,ART25707984 - TR991289.mp3,TR991289,991289,Intro (Cielo),TR991289,2022.0,2022-03-18,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR994546.mp3,ART25707984 - TR994546.mp3,TR994546,994546,Sono Un Soldato,TR994546,2006.0,2006-12-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR996231.mp3,ART07024718 - TR996231.mp3,TR996231,996231,Ti Porto con Me,TR996231,2011.0,2023-07-06,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR997195.mp3,ART25707984 - TR997195.mp3,TR997195,997195,La Solitudine Dei Numeri Uno,TR997195,2013.0,2013-01-01,album,Fabri Fibra,1
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR998032.mp3,ART07024718 - TR998032.mp3,TR998032,998032,Mentine,TR998032,2013.0,2013-03-05,album,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART07024718 - TR998660.mp3,ART07024718 - TR998660.mp3,TR998660,998660,Un Sorriso,TR998660,,2023-07-06,single,Fedez,0
+..\data\mp3_dataset\fedez_fibra\ART25707984 - TR998998.mp3,ART25707984 - TR998998.mp3,TR998998,998998,Come Mai,TR998998,2019.0,2019-10-24,compilation,Fabri Fibra,1
