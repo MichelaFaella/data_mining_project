@@ -756,7 +756,7 @@ def plot_symmetric_distributions(
     plt.show()
 
 
-def plot_skewed_distributions_standard_iqr(
+def plot_skewed_distributions_iqr(
     df,
     features_list,
     n_cols=3,
@@ -816,78 +816,6 @@ def plot_skewed_distributions_standard_iqr(
             axes[i].set_xlabel("")
             axes[i].grid(True, linestyle=":", alpha=0.4)
 
-        else:
-            axes[i].set_visible(False)
-
-    for j in range(i + 1, len(axes)):
-        fig.delaxes(axes[j])
-
-    plt.suptitle(title, fontsize=18, y=1.02)
-    plt.tight_layout()
-    plt.show()
-
-
-def plot_skewed_distributions_modified_iqr(
-    df,
-    features_list,
-    n_cols=3,
-    iqr_multiplier=3.0,
-    title="Skewed Distribution Analysis (Modified IQR: k = 3)",
-):
-    """
-    Plots boxplots for skewed features using a modified IQR rule (default k=3).
-    This reduces over-detection of outliers in long-tailed distributions.
-
-    Parameters:
-    - df: pandas DataFrame
-    - features_list: list of column names to plot
-    - n_cols: number of columns per row
-    - iqr_multiplier: modified IQR multiplier (default 3)
-    - title: figure title
-    """
-
-
-    n_features = len(features_list)
-    n_rows = (n_features + n_cols - 1) // n_cols
-
-    fig, axes = plt.subplots(n_rows, n_cols, figsize=(15, n_rows * 3.5))
-    axes = axes.flatten()
-
-    print(f"--- {title} ---")
-    print(f"Using Modified IQR: k = {iqr_multiplier}")
-    print("Orange lines = Adjusted IQR fences\n")
-
-    for i, col in enumerate(features_list):
-        if col not in df.columns:
-            axes[i].set_visible(False)
-            continue
-
-        sns.boxplot(x=df[col], ax=axes[i], orient="h", color="skyblue", fliersize=3)
-
-        # Compute IQR fences
-        Q1, Q3 = df[col].quantile([0.25, 0.75])
-        IQR = Q3 - Q1
-        lower = Q1 - iqr_multiplier * IQR
-        upper = Q3 + iqr_multiplier * IQR
-
-        # Draw modified IQR fences
-        axes[i].axvline(lower, color="orange", linestyle=":", linewidth=2)
-        axes[i].axvline(upper, color="orange", linestyle=":", linewidth=2)
-
-        axes[i].set_title(
-            f"{col}\nIQR = {IQR:.2f} | Upper Fence = {upper:.2f}", fontsize=10
-        )
-        axes[i].grid(True, linestyle=":", alpha=0.4)
-
-    # Remove empty subplot slots
-    for j in range(i + 1, len(axes)):
-        fig.delaxes(axes[j])
-
-    plt.suptitle(title, fontsize=18, y=1.02)
-    plt.tight_layout()
-    plt.show()
-
-
 def plot_zero_inflated_distributions(
     df, features_list, n_cols=3, title="Zero-Inflated Distribution Analysis"
 ):
@@ -912,7 +840,7 @@ def plot_zero_inflated_distributions(
 
     for i, col in enumerate(features_list):
         if col in df.columns:
-            # 1. Histogram
+            # Histogram
             sns.histplot(
                 df[col], ax=axes[i], bins=30, kde=False, color="purple", stat="count"
             )
