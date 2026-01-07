@@ -1,0 +1,1 @@
+{"score": 0.7346964997744942, "params": {"knn__metric": "manhattan", "knn__n_neighbors": 11, "knn__weights": "inverse_squared_dist", "selector__k": 11}}
